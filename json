@@ -1,0 +1,46 @@
+[
+  {
+    "question": "What is the correct Syntax for an ArrayList?",
+    "answers":{
+      "a":{
+        "text":"ArrayList<> list=()",
+        "value": "incorrect"
+      },
+      "b":{
+        "text":"ArrayList<String> list= new ArrayList<>()",
+        "value": "correct"
+      },
+      "c":{
+        "text":"ArrayList<int> list= new ArrayList<>()",
+        "value": "incorrect"
+      },
+      "d":{
+        "text":"ArrayList<String> list= ArrayList<>()",
+        "value": "incorrect"
+      }
+    }
+  },
+
+  {
+    "question": "What is the correct syntax for a Scanner?",
+    "answers":{
+      "a":{
+        "text":"Scanner sc = new Scanner(System.in)",
+        "value": "correct"
+      },
+      "b":{
+        "text":"Scanner sc = new Scanner()",
+        "value": "incorrect"
+      },
+      "c":{
+        "text":"Scanner sc = (System.in)",
+        "value": "incorrect"
+      },
+      "d":{
+        "text":"Scanner sc = new Scanner",
+        "value": "incorrect"
+      }
+    }
+  },
+  
+]
